@@ -1,4 +1,7 @@
-Merhabalar Kuyruk kaydedilirken sorun çıktı hatası filezilla çözümü aşağıdadır.
+Merhabalar 
+Filezilla aktarım kuyrugu C:\... .. .queue.sqlite3 üzerinden yüklenirken bir sorun çıktı.
+bazı aktarım kuyrugu ögeleri yüklenememiş olabilir hatası çözümü aşağıdadır.
+
 
 Daha önceleri indirip sonraları güncelleme için veyahut başka bir sebepten tekrardan sildiğim filezilla ftp client'ımı 
 çalıştırdıgımda kuyruk kaydedilirken bir hata oluştu şeklinde bir popup alıyordum.
